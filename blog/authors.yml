@@ -1,0 +1,49 @@
+yangshun:
+  name: Yangshun Tay
+  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
+  url: https://linkedin.com/in/yangshun
+  image_url: https://github.com/yangshun.png
+  page: true
+  socials:
+    x: yangshunz
+    linkedin: yangshun
+    github: yangshun
+    newsletter: https://www.greatfrontend.com
+
+jason:
+  name: Jason Peters
+  title: ETN Ecosystem, Founder
+  url: https://linkedin.com/in/yangshun
+  image_url: https://github.com/jayp89.png
+  page: true
+  socials:
+    x: jason_peters1
+    linkedin: yangshun
+    github: jayp89
+    newsletter: https://www.greatfrontend.com
+
+etn:
+  name: ETN Ecosystem
+  title: ETN Team
+  url: https://etn-ecosystem.com
+  image_url: https://github.com/ETN-Ecosystem.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-etn-articles'
+  socials:
+    x: etnetsa
+    linkedin: etn-ecosystem
+    github: ETN-Ecosystem
+
+
+natnael:
+  name: Nathnael Biruk
+  title: ETN Ecosystem, Co-founder
+  url: https://linkedin.com/in/nathnaelbiruk
+  image_url: https://github.com/NathiB.png
+  page: true
+  socials:
+    x: nathnaelbruke
+    linkedin: nathnaelbiruk
+    github: NathiB
+    newsletter: https://www.greatfrontend.com
