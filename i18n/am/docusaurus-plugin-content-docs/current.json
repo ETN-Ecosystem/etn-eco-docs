@@ -1,0 +1,50 @@
+{
+  "version.label": {
+    "message": "ቀጣይ",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Overview": {
+    "message": "አጠቃላይ እይታ",
+    "description": "The label for category Overview in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.etn-token": {
+    "message": "ETN ኮይን",
+    "description": "The label for category etn-token in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.ETN Ecosystem Platforms": {
+    "message": "የETN ኢኮሲስተም መድረኮች",
+    "description": "The label for category ETN Ecosystem Platforms in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.appendices": {
+    "message": "ተጨማሪዎች",
+    "description": "The label for category appendices in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.community": {
+    "message": "ማህበረሰብ",
+    "description": "The label for category community in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.community-roadmap": {
+    "message": "የማህበረሰብ መንገድ ካርታ",
+    "description": "The label for category community-roadmap in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.development": {
+    "message": "እድገት",
+    "description": "The label for category development in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.governance": {
+    "message": "አስተዳደር",
+    "description": "The label for category governance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.nft-collections": {
+    "message": "የNFT ስብስቦች",
+    "description": "The label for category nft-collections in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.technical": {
+    "message": "ቴክኒካዊ",
+    "description": "The label for category technical in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.technology": {
+    "message": "ቴክኖሎጂ",
+    "description": "The label for category technology in sidebar tutorialSidebar"
+  }
+}

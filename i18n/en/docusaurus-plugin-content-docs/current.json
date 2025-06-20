@@ -1,0 +1,50 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Overview": {
+    "message": "Overview",
+    "description": "The label for category Overview in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.etn-token": {
+    "message": "etn-token",
+    "description": "The label for category etn-token in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.ETN Ecosystem Platforms": {
+    "message": "ETN Ecosystem Platforms",
+    "description": "The label for category ETN Ecosystem Platforms in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.appendices": {
+    "message": "appendices",
+    "description": "The label for category appendices in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.community": {
+    "message": "community",
+    "description": "The label for category community in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.community-roadmap": {
+    "message": "community-roadmap",
+    "description": "The label for category community-roadmap in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.development": {
+    "message": "development",
+    "description": "The label for category development in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.governance": {
+    "message": "governance",
+    "description": "The label for category governance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.nft-collections": {
+    "message": "nft-collections",
+    "description": "The label for category nft-collections in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.technical": {
+    "message": "technical",
+    "description": "The label for category technical in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.technology": {
+    "message": "technology",
+    "description": "The label for category technology in sidebar tutorialSidebar"
+  }
+}

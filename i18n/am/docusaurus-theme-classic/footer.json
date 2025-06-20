@@ -1,0 +1,90 @@
+{
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.Platforms": {
+    "message": "Platforms",
+    "description": "The title of the footer links column with title=Platforms in the footer"
+  },
+  "link.title.Token & Governance": {
+    "message": "Token & Governance",
+    "description": "The title of the footer links column with title=Token & Governance in the footer"
+  },
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.item.label.Telegram: ET Apps": {
+    "message": "Telegram: ET Apps",
+    "description": "The label of footer link with label=Telegram: ET Apps linking to http://t.me/et_apps"
+  },
+  "link.item.label.Telegram: ETN Channel": {
+    "message": "Telegram: ETN Channel",
+    "description": "The label of footer link with label=Telegram: ETN Channel linking to https://t.me/etnetsacoin"
+  },
+  "link.item.label.Airdrop Bot": {
+    "message": "Airdrop Bot",
+    "description": "The label of footer link with label=Airdrop Bot linking to https://t.me/ET_Netsa_Airdrop_bot?start="
+  },
+  "link.item.label.Buy $ETN Bot": {
+    "message": "Buy $ETN Bot",
+    "description": "The label of footer link with label=Buy $ETN Bot linking to https://t.me/Buy_ETN_bot"
+  },
+  "link.item.label.YouTube": {
+    "message": "YouTube",
+    "description": "The label of footer link with label=YouTube linking to https://www.youtube.com/@ETNetsaCoin?sub_confirmation=1"
+  },
+  "link.item.label.TikTok": {
+    "message": "TikTok",
+    "description": "The label of footer link with label=TikTok linking to https://www.tiktok.com/@etneco"
+  },
+  "link.item.label.X / Twitter": {
+    "message": "X / Twitter",
+    "description": "The label of footer link with label=X / Twitter linking to https://x.com/etnetsa"
+  },
+  "link.item.label.CryptoTalkET LinkTree": {
+    "message": "CryptoTalkET LinkTree",
+    "description": "The label of footer link with label=CryptoTalkET LinkTree linking to https://linktr.ee/cryptotalket"
+  },
+  "link.item.label.ETN Learn": {
+    "message": "ETN Learn",
+    "description": "The label of footer link with label=ETN Learn linking to http://etn-learn.ethio-tech.com/"
+  },
+  "link.item.label.ETN Main Website": {
+    "message": "ETN Main Website",
+    "description": "The label of footer link with label=ETN Main Website linking to http://etn.ethio-tech.com/"
+  },
+  "link.item.label.ETN Platform Stats": {
+    "message": "ETN Platform Stats",
+    "description": "The label of footer link with label=ETN Platform Stats linking to http://stats.ethiotech.net.et/"
+  },
+  "link.item.label.TON Viewer: $ETN Token": {
+    "message": "TON Viewer: $ETN Token",
+    "description": "The label of footer link with label=TON Viewer: $ETN Token linking to https://tonviewer.com/EQAz_XrD0hA4cqlprWkpS7TIAhCG4CknAfob1VQm-2mBf5Vl"
+  },
+  "link.item.label.GetGems NFT Collection": {
+    "message": "GetGems NFT Collection",
+    "description": "The label of footer link with label=GetGems NFT Collection linking to https://getgems.io/etnetsa"
+  },
+  "link.item.label.TON Vote: ETN DAO": {
+    "message": "TON Vote: ETN DAO",
+    "description": "The label of footer link with label=TON Vote: ETN DAO linking to https://ton.vote/EQDv3VVbwaNwqIzn_EVb_dygJGj-AM9CZ80ZnkG8K_k48r-9/about"
+  },
+  "link.item.label.DYOR Token Info": {
+    "message": "DYOR Token Info",
+    "description": "The label of footer link with label=DYOR Token Info linking to https://dyor.io/token/EQAz_XrD0hA4cqlprWkpS7TIAhCG4CknAfob1VQm-2mBf5Vl"
+  },
+  "link.item.label.GeckoTerminal Pool": {
+    "message": "GeckoTerminal Pool",
+    "description": "The label of footer link with label=GeckoTerminal Pool linking to https://www.geckoterminal.com/ton/pools/EQBt7drPhWyQRIVnSkDzThhiVcq1lwPT371DYX-gGHzN9bwh"
+  },
+  "link.item.label.Platform Overview": {
+    "message": "Platform Overview",
+    "description": "The label of footer link with label=Platform Overview linking to /docs/intro"
+  },
+  "copyright": {
+    "message": "\n          <div style=\"text-align: center; font-size: 0.9rem; color: #AAB8C2; display: flex; align-items: center; justify-content: center; gap: 0.4rem;\">\n            <span>Copyright © 2025 ETN Ecosystem. Built on</span>\n            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" style=\"margin-bottom: -2px;\">\n              <path d=\"M8 13.2008L12.6156 5.20034C13.07 4.41285 13.2971 4.01911 13.2631 3.69603C13.2334 3.41422 13.0856 3.15824 12.8563 2.99171C12.5935 2.80078 12.1389 2.80078 11.2297 2.80078H8M8 13.2008L3.38436 5.20034C2.93004 4.41285 2.70288 4.01911 2.73691 3.69603C2.76659 3.41422 2.91444 3.15824 3.1437 2.99171C3.40654 2.80078 3.86111 2.80078 4.77026 2.80078L8 2.80078M8 13.2008V2.80078\" stroke=\"#728A96\" stroke-width=\"1.3\" stroke-linejoin=\"round\"></path>\n            </svg>\n            <span>TON</span>\n          </div>\n        ",
+    "description": "The footer copyright"
+  }
+}
