@@ -28,7 +28,7 @@ function HomepageHeader() {
         <Heading
           as="h1"
           className="hero__title"
-          style={{ fontSize: '3.5rem', color: '#ffffff' }}
+          style={{ fontSize: '2.5rem', color: '#ffffff' }}
         >
           The <span style={{ color: '#FFB400' }}>ETN</span> Ecosystem
         </Heading>
@@ -37,7 +37,7 @@ function HomepageHeader() {
         <p
           className="hero__subtitle"
           style={{
-            fontSize: '1.5rem',
+            fontSize: '1.0rem',
             color: '#ffffffcc',
             marginBottom: '3rem',
           }}
@@ -51,7 +51,7 @@ function HomepageHeader() {
         </div>
         <div
           style={{
-            fontSize: '4.5rem',
+            fontSize: '2.1rem',
             color: '#FFB400',
             fontWeight: 'bold',
             marginBottom: '2rem',

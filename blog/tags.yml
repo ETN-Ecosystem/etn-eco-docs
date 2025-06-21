@@ -1,35 +1,84 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
-
 etn:
   label: ETN
-  permalink: /etn
-  description: ETN tag description
+  permalink: /tags/etn
+  description: The official ETN token powering the ETN Ecosystem on the TON blockchain.
 
-etn_learn:
+etn-learn:
   label: ETN Learn
-  permalink: /etn_learn
-  description: ETN Learn tag description
+  permalink: /tags/etn-learn
+  description: ETN Learn — a blockchain education platform that accepts $ETN.
+
+etn-pay:
+  label: ETN Pay
+  permalink: /tags/etn-pay
+  description: ETN Pay is the payment gateway enabling $ETN transactions across services.
+
+etn-dns:
+  label: ETN DNS
+  permalink: /tags/etn-dns
+  description: ETN DNS provides decentralized domain registration on the TON blockchain.
+
+etn-hosting:
+  label: ETN Hosting
+  permalink: /tags/etn-hosting
+  description: Host and proxy websites using the TON blockchain with ETN Hosting.
+
+governance:
+  label: Governance
+  permalink: /tags/governance
+  description: DAO governance, voting, and NFT-based authority within the ETN Ecosystem.
+
+nft:
+  label: NFTs
+  permalink: /tags/nft
+  description: Governance and utility NFTs in the ETN Ecosystem, including SBTs.
+
+treasury:
+  label: Treasury Bonds
+  permalink: /tags/treasury
+  description: $ETN-backed treasury bonds and their smart contract structure.
+
+ton:
+  label: TON
+  permalink: /tags/ton
+  description: Infrastructure and compatibility with the TON blockchain.
+
+dao:
+  label: DAO
+  permalink: /tags/dao
+  description: Decentralized autonomous organization concepts in ETN governance.
 
 web3:
   label: Web3
-  permalink: /web3
-  description: Web3 tag description
+  permalink: /tags/web3
+  description: Web3 technologies, integrations, and dApps within the ETN Ecosystem.
 
+airdrops:
+  label: Airdrops
+  permalink: /tags/airdrops
+  description: ETN airdrop campaigns, mechanics, and tools like the Telegram bot.
+
+analytics:
+  label: Analytics
+  permalink: /tags/analytics
+  description: ETN platform usage statistics and public dashboards.
+
+etn-docs:
+  label: ETN Docs
+  permalink: /tags/etn-docs
+  description: Technical and community documentation for the ETN Ecosystem.
+
+etn-fm:
+  label: ETN FM
+  permalink: /tags/etn-fm
+  description: The upcoming radio and media platform powered by ETN.
+
+ecosystem:
+  label: ኢኮስስተም (Ecosystem)
+  permalink: /tags/ecosystem
+  description: Full overview and interconnection of ETN products and platforms.
+
+press-release:
+  label: press-release
+  permalink: /tags/press-release
+  description: News and Updates.
