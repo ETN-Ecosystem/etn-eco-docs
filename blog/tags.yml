@@ -82,3 +82,9 @@ press-release:
   label: press-release
   permalink: /tags/press-release
   description: News and Updates.
+ 
+etn_learn:
+  label: ETN Learn
+  permalink: /tags/etn_learn
+  description: ETN Ecosystemns Learning Platform.
+

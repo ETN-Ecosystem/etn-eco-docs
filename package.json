@@ -1,5 +1,5 @@
 {
-  "name": "my-website",
+  "name": "ETN Ecosystem Docs",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -22,6 +22,7 @@
     "prism-react-renderer": "^2.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
     "react-simple-typewriter": "^5.0.1"
   },
   "devDependencies": {
