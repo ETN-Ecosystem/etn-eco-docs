@@ -14,41 +14,49 @@ function HomepageHeader() {
   return (
     <header
       className={clsx('hero', styles.heroBanner)}
-      style={{ backgroundColor: '#133A2A', padding: '5rem 0' }}
+      style={{
+        background: 'linear-gradient(135deg, #133A2A 0%, #1B5E20 100%)',
+        padding: '5rem 0',
+        boxShadow: '0 4px 20px rgba(0, 0, 0, 0.3)',
+        borderBottom: '1px solid rgba(255, 255, 255, 0.1)',
+      }}
     >
       <div className="container text--center">
-        {/* ✅ Replaced with direct <img src> instead of import */}
         <img
           src="/img/etn-eco.svg"
           alt="ETN Ecosystem Logo"
-          style={{ height: '100px', marginBottom: '1.5rem' }}
+          style={{
+            height: '100px',
+            marginBottom: '1.5rem',
+            filter: 'drop-shadow(0px 0px 6px rgba(255, 180, 0, 0.3))',
+          }}
         />
 
-        {/* Main Title */}
         <Heading
           as="h1"
           className="hero__title"
-          style={{ fontSize: '2.5rem', color: '#ffffff' }}
+          style={{
+            fontSize: '1.5rem',
+            color: '#ffffff',
+            textShadow: '0 1px 4px rgba(0,0,0,0.4)',
+          }}
         >
           The <span style={{ color: '#FFB400' }}>ETN</span> Ecosystem
         </Heading>
 
-        {/* Slogan */}
         <p
           className="hero__subtitle"
           style={{
-            fontSize: '1.0rem',
+            fontSize: '1.1rem',
             color: '#ffffffcc',
-            marginBottom: '3rem',
+            marginBottom: '2.5rem',
+            fontStyle: 'italic',
           }}
         >
           Ethiopia Unchained
         </p>
 
-        {/* Powering static + typewriter animated platforms below */}
-        <div style={{ fontSize: '1.1rem', color: '#ffffff', fontWeight: 'bold' }}>
-          Powering:
-        </div>
+        <div style={{ fontSize: '1.15rem', color: '#ffffff' }}>Powering:</div>
         <div
           style={{
             fontSize: '2.1rem',
@@ -56,6 +64,7 @@ function HomepageHeader() {
             fontWeight: 'bold',
             marginBottom: '2rem',
             minHeight: '3.2rem',
+            textShadow: '0 1px 2px rgba(0,0,0,0.4)',
           }}
         >
           <Typewriter
@@ -97,7 +106,6 @@ function HomepageHeader() {
           />
         </div>
 
-        {/* Button */}
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -106,6 +114,14 @@ function HomepageHeader() {
               backgroundColor: '#FFB400',
               color: '#133A2A',
               fontWeight: 'bold',
+              boxShadow: '0 6px 16px rgba(255, 180, 0, 0.35)',
+              transition: 'all 0.3s ease-in-out',
+            }}
+            onMouseEnter={(e) => {
+              e.currentTarget.style.transform = 'scale(1.04)';
+            }}
+            onMouseLeave={(e) => {
+              e.currentTarget.style.transform = 'scale(1.0)';
             }}
           >
             Explore the Platforms 🚀
@@ -121,7 +137,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description="Explore the decentralized platforms that make up the ETN Ecosystem. Built on the TON blockchain to empower Ethiopia and beyond."
     >
       <HomepageHeader />
       <main>
