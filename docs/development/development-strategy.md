@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Ecosystem Development and Strategy
+sidebar_label: Development Strategy
 ---
 
 # Ecosystem Development and Strategy

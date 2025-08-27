@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+title: TON Blockchain Integration
+sidebar_label: TON Integration
 ---
 
 # TON Blockchain Integration

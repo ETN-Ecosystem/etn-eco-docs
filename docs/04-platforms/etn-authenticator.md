@@ -1,5 +1,7 @@
 ---
 sidebar_position: 27
+title: ETN Authenticator
+sidebar_label: ETN Authenticator
 ---
 
 # ETN Authenticator

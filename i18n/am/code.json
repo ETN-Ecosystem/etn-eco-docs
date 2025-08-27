@@ -87,6 +87,9 @@
     "message": "{nDocsTagged} with \"{tagName}\"",
     "description": "The title of the page for a docs tag"
   },
+  "theme.docs.versionBadge.label": {
+    "message": "Version: {versionLabel}"
+  },
   "theme.docs.versions.unreleasedVersionLabel": {
     "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",
     "description": "The label used to tell the user that he's browsing an unreleased doc version"
@@ -102,9 +105,6 @@
   "theme.docs.versions.latestVersionLinkLabel": {
     "message": "latest version",
     "description": "The label used for the latest version suggestion link label"
-  },
-  "theme.docs.versionBadge.label": {
-    "message": "Version: {versionLabel}"
   },
   "theme.common.editThisPage": {
     "message": "Edit this page",
@@ -138,6 +138,10 @@
     "message": "Tags:",
     "description": "The label alongside a tag list"
   },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Close",
+    "description": "The ARIA label for close button of announcement bar"
+  },
   "theme.admonition.caution": {
     "message": "caution",
     "description": "The default label used for the Caution admonition (:::caution)"
@@ -162,10 +166,6 @@
     "message": "warning",
     "description": "The default label used for the Warning admonition (:::warning)"
   },
-  "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Close",
-    "description": "The ARIA label for close button of announcement bar"
-  },
   "theme.blog.sidebar.navAriaLabel": {
     "message": "Blog recent posts navigation",
     "description": "The ARIA label for recent posts in the blog sidebar"
@@ -182,10 +182,6 @@
     "message": "Main",
     "description": "The ARIA label for the main navigation"
   },
-  "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Languages",
-    "description": "The label for the mobile language switcher dropdown"
-  },
   "theme.NotFound.p1": {
     "message": "We could not find what you were looking for.",
     "description": "The first paragraph of the 404 page"
@@ -194,9 +190,17 @@
     "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
     "description": "The 2nd paragraph of the 404 page"
   },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "Languages",
+    "description": "The label for the mobile language switcher dropdown"
+  },
   "theme.TOCCollapsible.toggleButtonLabel": {
     "message": "On this page",
     "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "One min read|{readingTime} min read",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.post.readMore": {
     "message": "Read more",
@@ -205,10 +209,6 @@
   "theme.blog.post.readMoreLabel": {
     "message": "Read more about {title}",
     "description": "The ARIA label for the link to full blog posts from excerpts"
-  },
-  "theme.blog.post.readingTime.plurals": {
-    "message": "One min read|{readingTime} min read",
-    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.CodeBlock.copy": {
     "message": "Copy",
@@ -356,5 +356,133 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "homepage.title": {
+    "message": "የ<span style={{ color: '#FFB400' }}>ETN</span> ስነ-ምህዳር",
+    "description": "The title of the homepage"
+  },
+  "homepage.subtitle": {
+    "message": "ኢትዮጵያ ነፃ ወጣች",
+    "description": "The subtitle of the homepage"
+  },
+  "homepage.powering": {
+    "message": "የሚያንቀሳቅሰው:",
+    "description": "Text indicating what the ecosystem is powering"
+  },
+  "homepage.explorePlatforms": {
+    "message": "መድረኮችን ያስሱ 🚀",
+    "description": "Text for the explore platforms button"
+  },
+  "homepage.layout.description": {
+    "message": "የETN ስነ-ምህዳርን የሚያካትቱ ያልተማከለ መድረኮችን ያስሱ። ኢትዮጵያን እና ከዚያ በላይ ለማብቃት በTON blockchain ላይ የተገነባ።",
+    "description": "The description for the layout component on the homepage"
+  },
+  "homepage.typewriterWords.etnDNS": {
+    "message": "ETN ዲኤንኤስ",
+    "description": "ETN DNS"
+  },
+  "homepage.typewriterWords.etnHosting": {
+    "message": "ETN ሆስቲንግ",
+    "description": "ETN Hosting"
+  },
+  "homepage.typewriterWords.etnLearn": {
+    "message": "ETN ይማሩ",
+    "description": "ETN Learn"
+  },
+  "homepage.typewriterWords.etnPay": {
+    "message": "ETN ይክፈሉ",
+    "description": "ETN Pay"
+  },
+  "homepage.typewriterWords.etnGebeya": {
+    "message": "ETN ገበያ",
+    "description": "ETN Gebeya"
+  },
+  "homepage.typewriterWords.mesewerBooks": {
+    "message": "መሰወር መጽሐፍት",
+    "description": "Mesewer Books"
+  },
+  "homepage.typewriterWords.etnAds": {
+    "message": "ETN ማስታወቂያዎች",
+    "description": "ETN Ads"
+  },
+  "homepage.typewriterWords.etnCouncil": {
+    "message": "ETN ምክር ቤት",
+    "description": "ETN Council"
+  },
+  "homepage.typewriterWords.etnEx": {
+    "message": "ETN-ኤክስ",
+    "description": "ETN-Ex"
+  },
+  "homepage.typewriterWords.etnStaking": {
+    "message": "ETN ስቴኪንግ",
+    "description": "ETN Staking"
+  },
+  "homepage.typewriterWords.etnJemaa": {
+    "message": "ETN ጀመዓ",
+    "description": "ETN Jem’aa"
+  },
+  "homepage.typewriterWords.etnNetsaLancer": {
+    "message": "ETN ነፃ ላንሰር",
+    "description": "ETN Netsa-Lancer"
+  },
+  "homepage.typewriterWords.etnTravel": {
+    "message": "ETN ጉዞ",
+    "description": "ETN Travel"
+  },
+  "homepage.typewriterWords.etnCards": {
+    "message": "ETN ካርዶች",
+    "description": "ETN Cards"
+  },
+  "homepage.typewriterWords.etnKazna": {
+    "message": "ETN ካዝና",
+    "description": "ETN Kazna"
+  },
+  "homepage.typewriterWords.etnTemplates": {
+    "message": "ETN አብነቶች",
+    "description": "ETN Templates"
+  },
+  "homepage.typewriterWords.etnFM": {
+    "message": "ETN-ኤፍኤም",
+    "description": "ETN-FM"
+  },
+  "homepage.typewriterWords.etnNumbers": {
+    "message": "ETN ቁጥሮች",
+    "description": "ETN Numbers"
+  },
+  "homepage.typewriterWords.guardiansOfEthiopia": {
+    "message": "የኢትዮጵያ ጠባቂዎች",
+    "description": "Guardians of Ethiopia"
+  },
+  "homepage.typewriterWords.etnAuth": {
+    "message": "ETN ማረጋገጫ",
+    "description": "ETN Auth"
+  },
+  "homepage.typewriterWords.etnGulit": {
+    "message": "ETN ጉሊት",
+    "description": "ETN Gulit"
+  },
+  "homepage.typewriterWords.etnEqub": {
+    "message": "ETN እቁብ",
+    "description": "ETN Equb"
+  },
+  "homepage.typewriterWords.etnDevs": {
+    "message": "ETN ገንቢዎች",
+    "description": "ETN Devs"
+  },
+  "homepage.typewriterWords.etnDaily": {
+    "message": "ETN ዕለታዊ",
+    "description": "ETN Daily"
+  },
+  "homepage.typewriterWords.etnBio": {
+    "message": "ETN ባዮ",
+    "description": "ETN Bio"
+  },
+  "homepage.typewriterWords.netsaAI": {
+    "message": "ነፃ AI",
+    "description": "NetsaAI"
+  },
+  "homepage.typewriterWords.etnAuthenticator": {
+    "message": "ETN አረጋጋጭ",
+    "description": "ETN Authenticator"
   }
 }

@@ -11,7 +11,7 @@ const config = {
     v4: true,
   },
 
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://docs.etnecosystem.org',
   baseUrl: '/',
 
   organizationName: 'ETN-Ecosystem',
@@ -22,14 +22,18 @@ const config = {
 
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'am'],
+    locales: ['en', 'am', 'om'],
     localeConfigs: {
       en: {
         label: 'English',
       },
       am: {
         label: 'አማርኛ',
-        direction: 'ltr', // You can change to 'rtl' if needed
+        direction: 'ltr',
+      },
+      om: {
+        label: 'Afaan Oromoo',
+        direction: 'ltr',
       },
     },
   },
@@ -42,7 +46,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ETN-Ecosystem/etn-eco-docs/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -51,7 +55,7 @@ const config = {
             xslt: true,
           },
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ETN-Ecosystem/etn-eco-docs/tree/main/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -69,9 +73,6 @@ const config = {
       /** @type {import('@easyops-cn/docusaurus-search-local').PluginOptions} */
       ({
         hashed: true,
-        // Optional:
-        // language: ['en'],
-        // forceIgnoreNoIndex: true,
       }),
     ],
   ],
@@ -79,6 +80,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+        {name: 'keywords', content: 'ETN Ecosystem, $ETN, ET Netsa Coin, ETN Ecosystem Documentation, $ETN on TON, ET Netsa Coin Jetton, TON, TON blockchain, decentralized, Ethiopia, crypto, web3, documentation'},
+        {name: 'description', content: 'The official documentation for the ETN Ecosystem, a suite of decentralized platforms built on the TON blockchain to empower Ethiopia and beyond.'},
+      ],
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'ETN Ecosystem',

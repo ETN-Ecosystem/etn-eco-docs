@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Community Engagement
+sidebar_label: Community Engagement
 ---
 
 # Community Engagement

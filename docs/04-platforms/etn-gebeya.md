@@ -1,5 +1,7 @@
 ---
 sidebar_position: 5
+title: ETN GEBEYA
+sidebar_label: ETN Gebeya
 ---
 
 # ETN GEBEYA

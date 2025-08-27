@@ -1,5 +1,7 @@
 ---
 sidebar_position: 18
+title: ETN Numbers
+sidebar_label: ETN Numbers
 ---
 
 # ETN Numbers

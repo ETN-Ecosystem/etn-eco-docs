@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Smart Contracts
+sidebar_label: Smart Contracts
 ---
 
 # Smart Contracts

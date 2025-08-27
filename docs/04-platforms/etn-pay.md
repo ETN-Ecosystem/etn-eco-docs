@@ -1,5 +1,7 @@
 ---
 sidebar_position: 4
+title: ETN PAY
+sidebar_label: ETN Pay
 ---
 
 # ETN PAY

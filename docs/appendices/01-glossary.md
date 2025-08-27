@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Glossary of Key Terms
+sidebar_label: Glossary
 ---
 
 # Glossary of Key Terms

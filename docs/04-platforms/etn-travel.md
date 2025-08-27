@@ -1,5 +1,7 @@
 ---
 sidebar_position: 13
+title: ETN Travel
+sidebar_label: ETN Travel
 ---
 
 # ETN Travel

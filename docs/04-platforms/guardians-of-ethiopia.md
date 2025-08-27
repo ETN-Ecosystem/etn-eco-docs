@@ -1,5 +1,7 @@
 ---
 sidebar_position: 19
+title: Guardians of Ethiopia & The ETN Ecosystem
+sidebar_label: Guardians of Ethiopia
 ---
 
 # Guardians of Ethiopia & The ETN Ecosystem

@@ -1,5 +1,7 @@
 ---
 sidebar_position: 10
+title: ETN STAKING (powered by jVault)
+sidebar_label: ETN Staking
 ---
 
 # ETN STAKING (powered by jVault)

@@ -1,5 +1,7 @@
 ---
 sidebar_position: 20
+title: ETN Auth
+sidebar_label: ETN Auth
 ---
 
 # ETN Auth

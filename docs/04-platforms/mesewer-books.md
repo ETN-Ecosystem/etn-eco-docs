@@ -1,6 +1,7 @@
 ---
 sidebar_position: 6
 title: MESEWER BOOKS
+sidebar_label: Mesewer Books
 ---
 
 ## 📚 MESEWER BOOKS  

@@ -1,5 +1,7 @@
 ---
 sidebar_position: 9
+title: ETN-Ex
+sidebar_label: ETN-Ex
 ---
 
 # ETN-Ex

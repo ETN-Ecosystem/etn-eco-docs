@@ -1,5 +1,7 @@
 ---
 sidebar_position: 17
+title: ETN-FM
+sidebar_label: ETN-FM
 ---
 
 # ETN-FM

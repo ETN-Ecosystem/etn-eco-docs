@@ -1,3 +1,8 @@
+---
+title: ETN Ecosystem Platforms
+sidebar_label: Platforms
+---
+
 # ETN Ecosystem Platforms
 
 This section provides an overview of the various platforms and services within the ETN Ecosystem.

@@ -1,5 +1,7 @@
 ---
 sidebar_position: 29
+title: Ahadu Badge SBT
+sidebar_label: Ahadu Badge SBT
 ---
 
 # Ahadu Badge SBT

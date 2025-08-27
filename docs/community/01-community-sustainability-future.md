@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Community, Sustainability, and Future Outlook
+sidebar_label: Community & Future
 ---
 
 # Community, Sustainability, and Future Outlook

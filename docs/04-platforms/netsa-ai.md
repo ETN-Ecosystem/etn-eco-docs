@@ -1,5 +1,7 @@
 ---
 sidebar_position: 26
+title: NetsaAI
+sidebar_label: NetsaAI
 ---
 
 # NetsaAI

@@ -1,5 +1,7 @@
 ---
 sidebar_position: 24
+title: ETN Daily
+sidebar_label: ETN Daily
 ---
 
 # ETN Daily

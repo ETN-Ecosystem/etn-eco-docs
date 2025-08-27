@@ -1,5 +1,7 @@
 ---
 sidebar_position: 25
+title: ETN Bio
+sidebar_label: ETN Bio
 ---
 
 # ETN Bio

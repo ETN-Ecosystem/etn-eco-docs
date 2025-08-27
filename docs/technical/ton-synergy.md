@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Technical Foundations and TON Blockchain Synergy
+sidebar_label: TON Synergy
 ---
 
 # Technical Foundations and TON Blockchain Synergy

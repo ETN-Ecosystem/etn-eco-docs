@@ -1,5 +1,7 @@
 ---
 sidebar_position: 14
+title: ETN CARDS
+sidebar_label: ETN Cards
 ---
 
 # ETN CARDS

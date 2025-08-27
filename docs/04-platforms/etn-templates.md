@@ -1,5 +1,7 @@
 ---
 sidebar_position: 16
+title: ETN Templates
+sidebar_label: ETN Templates
 ---
 
 # ETN Templates

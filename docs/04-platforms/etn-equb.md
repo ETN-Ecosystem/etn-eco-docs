@@ -1,5 +1,7 @@
 ---
 sidebar_position: 22
+title: ETN Equb
+sidebar_label: ETN Equb
 ---
 
 # ETN Equb

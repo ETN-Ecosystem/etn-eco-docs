@@ -5,12 +5,43 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
+import Translate, {translate} from '@docusaurus/Translate';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
+
+  const typewriterWords = [
+    "ETN DNS",
+    "ETN Hosting",
+    "ETN Learn",
+    "ETN Pay",
+    "ETN Gebeya",
+    "Mesewer Books",
+    "ETN Ads",
+    "ETN Council",
+    "ETN-Ex",
+    "ETN Staking",
+    "ETN Jem’aa",
+    "ETN Netsa-Lancer",
+    "ETN Travel",
+    "ETN Cards",
+    "ETN Kazna",
+    "ETN Templates",
+    "ETN-FM",
+    "ETN Numbers",
+    "Guardians of Ethiopia",
+    "ETN Auth",
+    "ETN Gulit",
+    "ETN Equb",
+    "ETN Devs",
+    "ETN Daily",
+    "ETN Bio",
+    "NetsaAI",
+    "ETN Authenticator",
+  ];
+
   return (
     <header
       className={clsx('hero', styles.heroBanner)}
@@ -41,7 +72,14 @@ function HomepageHeader() {
             textShadow: '0 1px 4px rgba(0,0,0,0.4)',
           }}
         >
-          The <span style={{ color: '#FFB400' }}>ETN</span> Ecosystem
+          <Translate
+            id="homepage.title"
+            values={{
+              etn: <span style={{ color: '#FFB400' }}>ETN</span>,
+            }}
+          >
+            {'The {etn} Ecosystem'}
+          </Translate>
         </Heading>
 
         <p
@@ -53,10 +91,12 @@ function HomepageHeader() {
             fontStyle: 'italic',
           }}
         >
-          Ethiopia Unchained
+          <Translate id="homepage.subtitle">Ethiopia Unchained</Translate>
         </p>
 
-        <div style={{ fontSize: '1.15rem', color: '#ffffff' }}>Powering:</div>
+        <div style={{ fontSize: '1.15rem', color: '#ffffff' }}>
+          <Translate id="homepage.powering">Powering:</Translate>
+        </div>
         <div
           style={{
             fontSize: '2.1rem',
@@ -68,35 +108,7 @@ function HomepageHeader() {
           }}
         >
           <Typewriter
-            words={[
-              'ETN DNS',
-              'ETN Hosting',
-              'ETN Learn',
-              'ETN Pay',
-              'ETN Gebeya',
-              'Mesewer Books',
-              'ETN Ads',
-              'ETN Council',
-              'ETN-Ex',
-              'ETN Staking',
-              'ETN Jem’aa',
-              'ETN Netsa-Lancer',
-              'ETN Travel',
-              'ETN Cards',
-              'ETN Kazna',
-              'ETN Templates',
-              'ETN-FM',
-              'ETN Numbers',
-              'Guardians of Ethiopia',
-              'ETN Auth',
-              'ETN Gulit',
-              'ETN Equb',
-              'ETN Devs',
-              'ETN Daily',
-              'ETN Bio',
-              'NetsaAI',
-              'ETN Authenticator',
-            ]}
+            words={typewriterWords}
             loop={0}
             cursor
             cursorStyle="_"
@@ -124,7 +136,7 @@ function HomepageHeader() {
               e.currentTarget.style.transform = 'scale(1.0)';
             }}
           >
-            Explore the Platforms 🚀
+            <Translate id="homepage.explore_button">Explore the Platforms 🚀</Translate>
           </Link>
         </div>
       </div>
@@ -136,8 +148,16 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Explore the decentralized platforms that make up the ETN Ecosystem. Built on the TON blockchain to empower Ethiopia and beyond."
+      title={`${translate({
+        id: 'homepage.layout.title',
+        message: 'Hello from',
+        description: 'The first part of the page title on the home page',
+      })} ${siteConfig.title}`}
+      description={translate({
+        id: 'homepage.layout.description',
+        message: 'Explore the decentralized platforms that make up the ETN Ecosystem. Built on the TON blockchain to empower Ethiopia and beyond.',
+        description: 'The meta description of the home page',
+      })}
     >
       <HomepageHeader />
       <main>

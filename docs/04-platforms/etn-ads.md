@@ -1,5 +1,7 @@
 ---
 sidebar_position: 7
+title: ETN ADs
+sidebar_label: ETN Ads
 ---
 
 # ETN ADs

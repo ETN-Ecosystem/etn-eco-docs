@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+title: ETN LEARN
+sidebar_label: ETN Learn
 ---
 
 # ETN LEARN

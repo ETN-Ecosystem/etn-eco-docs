@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: ETN DNS
+sidebar_label: ETN DNS
 ---
 
 # ETN DNS

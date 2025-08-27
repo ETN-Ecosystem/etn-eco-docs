@@ -1,5 +1,7 @@
 ---
 sidebar_position: 21
+title: ETN Gulit
+sidebar_label: ETN Gulit
 ---
 
 # ETN Gulit

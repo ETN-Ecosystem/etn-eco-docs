@@ -1,5 +1,7 @@
 ---
 sidebar_position: 12
+title: ETN Netsa-Lancer
+sidebar_label: ETN Netsa-Lancer
 ---
 
 # ETN Netsa-Lancer

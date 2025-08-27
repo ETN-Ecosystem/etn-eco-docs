@@ -46,5 +46,9 @@
   "sidebar.tutorialSidebar.category.technology": {
     "message": "technology",
     "description": "The label for category technology in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Platforms": {
+    "message": "Platforms",
+    "description": "The label for category Platforms in sidebar tutorialSidebar"
   }
 }

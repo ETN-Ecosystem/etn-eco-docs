@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Netsaai Chatbot
+sidebar_label: Netsaai Chatbot
 ---
 
 # Netsaai Chatbot

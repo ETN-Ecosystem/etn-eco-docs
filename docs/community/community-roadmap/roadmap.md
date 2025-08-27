@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+title: ETN Ecosystem Roadmap
+sidebar_label: Roadmap
 ---
 
 # ETN Ecosystem Roadmap

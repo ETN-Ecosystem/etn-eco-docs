@@ -356,5 +356,145 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "homepage.title": {
+    "message": "Ecosystem"
+  },
+  "homepage.subtitle": {
+    "message": "Ethiopia Unchained"
+  },
+  "homepage.powering": {
+    "message": "Powering:"
+  },
+  "homepage.explorePlatforms": {
+    "message": "Explore the Platforms 🚀",
+    "description": "Text for the explore platforms button"
+  },
+  "homepage.layout.description": {
+    "message": "Explore the decentralized platforms that make up the ETN Ecosystem. Built on the TON blockchain to empower Ethiopia and beyond.",
+    "description": "The meta description of the home page"
+  },
+  "homepage.typewriterWords.etnDNS": {
+    "message": "ETN DNS",
+    "description": "ETN DNS"
+  },
+  "homepage.typewriterWords.etnHosting": {
+    "message": "ETN Hosting",
+    "description": "ETN Hosting"
+  },
+  "homepage.typewriterWords.etnLearn": {
+    "message": "ETN Learn",
+    "description": "ETN Learn"
+  },
+  "homepage.typewriterWords.etnPay": {
+    "message": "ETN Pay",
+    "description": "ETN Pay"
+  },
+  "homepage.typewriterWords.etnGebeya": {
+    "message": "ETN Gebeya",
+    "description": "ETN Gebeya"
+  },
+  "homepage.typewriterWords.mesewerBooks": {
+    "message": "Mesewer Books",
+    "description": "Mesewer Books"
+  },
+  "homepage.typewriterWords.etnAds": {
+    "message": "ETN Ads",
+    "description": "ETN Ads"
+  },
+  "homepage.typewriterWords.etnCouncil": {
+    "message": "ETN Council",
+    "description": "ETN Council"
+  },
+  "homepage.typewriterWords.etnEx": {
+    "message": "ETN-Ex",
+    "description": "ETN-Ex"
+  },
+  "homepage.typewriterWords.etnStaking": {
+    "message": "ETN Staking",
+    "description": "ETN Staking"
+  },
+  "homepage.typewriterWords.etnJemaa": {
+    "message": "ETN Jem’aa",
+    "description": "ETN Jem’aa"
+  },
+  "homepage.typewriterWords.etnNetsaLancer": {
+    "message": "ETN Netsa-Lancer",
+    "description": "ETN Netsa-Lancer"
+  },
+  "homepage.typewriterWords.etnTravel": {
+    "message": "ETN Travel",
+    "description": "ETN Travel"
+  },
+  "homepage.typewriterWords.etnCards": {
+    "message": "ETN Cards",
+    "description": "ETN Cards"
+  },
+  "homepage.typewriterWords.etnKazna": {
+    "message": "ETN Kazna",
+    "description": "ETN Kazna"
+  },
+  "homepage.typewriterWords.etnTemplates": {
+    "message": "ETN Templates",
+    "description": "ETN Templates"
+  },
+  "homepage.typewriterWords.etnFM": {
+    "message": "ETN-FM",
+    "description": "ETN-FM"
+  },
+  "homepage.typewriterWords.etnNumbers": {
+    "message": "ETN Numbers",
+    "description": "ETN Numbers"
+  },
+  "homepage.typewriterWords.guardiansOfEthiopia": {
+    "message": "Guardians of Ethiopia",
+    "description": "Guardians of Ethiopia"
+  },
+  "homepage.typewriterWords.etnAuth": {
+    "message": "ETN Auth",
+    "description": "ETN Auth"
+  },
+  "homepage.typewriterWords.etnGulit": {
+    "message": "ETN Gulit",
+    "description": "ETN Gulit"
+  },
+  "homepage.typewriterWords.etnEqub": {
+    "message": "ETN Equb",
+    "description": "ETN Equb"
+  },
+  "homepage.typewriterWords.etnDevs": {
+    "message": "ETN Devs",
+    "description": "ETN Devs"
+  },
+  "homepage.typewriterWords.etnDaily": {
+    "message": "ETN Daily",
+    "description": "ETN Daily"
+  },
+  "homepage.typewriterWords.etnBio": {
+    "message": "ETN Bio",
+    "description": "ETN Bio"
+  },
+  "homepage.typewriterWords.netsaAI": {
+    "message": "NetsaAI",
+    "description": "NetsaAI"
+  },
+  "homepage.typewriterWords.etnAuthenticator": {
+    "message": "ETN Authenticator",
+    "description": "ETN Authenticator"
+  },
+  "homepage.title.prefix": {
+    "message": "The",
+    "description": "The prefix of the homepage title"
+  },
+  "homepage.title.suffix": {
+    "message": "Ecosystem",
+    "description": "The suffix of the homepage title"
+  },
+  "homepage.explore_button": {
+    "message": "Explore the Platforms 🚀"
+  },
+  "homepage.layout.title": {
+    "message": "Hello from",
+    "description": "The first part of the page title on the home page"
   }
 }

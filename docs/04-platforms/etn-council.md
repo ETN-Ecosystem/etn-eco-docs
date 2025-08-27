@@ -1,5 +1,7 @@
 ---
 sidebar_position: 8
+title: ETN Council
+sidebar_label: ETN Council
 ---
 
 # ETN Council

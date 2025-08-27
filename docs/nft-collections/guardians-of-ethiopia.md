@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Guardians of Ethiopia NFT Collection
+sidebar_label: Guardians of Ethiopia
 ---
 
 # Guardians of Ethiopia NFT Collection

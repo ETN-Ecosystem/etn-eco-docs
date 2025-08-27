@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+title: Governance Assets
+sidebar_label: Governance Assets
 ---
 
 # Governance Assets

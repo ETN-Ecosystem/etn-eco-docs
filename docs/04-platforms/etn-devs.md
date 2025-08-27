@@ -1,5 +1,7 @@
 ---
 sidebar_position: 23
+title: ETN Devs
+sidebar_label: ETN Devs
 ---
 
 # ETN Devs
