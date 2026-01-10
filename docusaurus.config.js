@@ -59,12 +59,21 @@ const config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
+          blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: './src/css/custom.css',
         },
+        gtag: {
+          trackingID: 'G-LDQT4Q5LTP',
+          anonymizeIP: true,
+        },
       }),
     ],
+  ],
+
+  stylesheets: [
+    'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;700;800&display=swap',
   ],
 
   themes: [
@@ -81,8 +90,8 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadata: [
-        {name: 'keywords', content: 'ETN Ecosystem, $ETN, ET Netsa Coin, ETN Ecosystem Documentation, $ETN on TON, ET Netsa Coin Jetton, TON, TON blockchain, decentralized, Ethiopia, crypto, web3, documentation'},
-        {name: 'description', content: 'The official documentation for the ETN Ecosystem, a suite of decentralized platforms built on the TON blockchain to empower Ethiopia and beyond.'},
+        { name: 'keywords', content: 'ETN Ecosystem, $ETN, ET Netsa Coin, ETN Ecosystem Documentation, $ETN on TON, ET Netsa Coin Jetton, TON, TON blockchain, decentralized, Ethiopia, crypto, web3, documentation, Not Electroneum, Distinct from Electroneum' },
+        { name: 'description', content: 'We are not a legacy chain. We are the future of digital personhood. The ETN Ecosystem is a suite of decentralized protocols built exclusively on the TON Blockchain. Distinct from Electroneum.' },
       ],
       image: 'img/docusaurus-social-card.jpg',
       navbar: {

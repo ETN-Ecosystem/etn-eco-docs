@@ -7,50 +7,45 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
-import Translate, {translate} from '@docusaurus/Translate';
+import Translate, { translate } from '@docusaurus/Translate';
+
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
 
   const typewriterWords = [
-    "ETN DNS",
-    "ETN Hosting",
-    "ETN Learn",
-    "ETN Pay",
-    "ETN Gebeya",
-    "Mesewer Books",
-    "ETN Ads",
-    "ETN Council",
-    "ETN-Ex",
-    "ETN Staking",
-    "ETN Jem’aa",
-    "ETN Netsa-Lancer",
-    "ETN Travel",
-    "ETN Cards",
-    "ETN Kazna",
-    "ETN Templates",
-    "ETN-FM",
-    "ETN Numbers",
-    "Guardians of Ethiopia",
-    "ETN Auth",
-    "ETN Gulit",
-    "ETN Equb",
-    "ETN Devs",
-    "ETN Daily",
-    "ETN Bio",
-    "NetsaAI",
-    "ETN Authenticator",
+    translate({ id: 'homepage.typewriterWords.etnDNS', message: 'ETN DNS' }),
+    translate({ id: 'homepage.typewriterWords.etnHosting', message: 'ETN Hosting' }),
+    translate({ id: 'homepage.typewriterWords.etnLearn', message: 'ETN Learn' }),
+    translate({ id: 'homepage.typewriterWords.etnPay', message: 'ETN Pay' }),
+    translate({ id: 'homepage.typewriterWords.etnGebeya', message: 'ETN Gebeya' }),
+    translate({ id: 'homepage.typewriterWords.mesewerBooks', message: 'Mesewer Books' }),
+    translate({ id: 'homepage.typewriterWords.etnAds', message: 'ETN Ads' }),
+    translate({ id: 'homepage.typewriterWords.etnCouncil', message: 'ETN Council' }),
+    translate({ id: 'homepage.typewriterWords.etnEx', message: 'ETN-Ex' }),
+    translate({ id: 'homepage.typewriterWords.etnStaking', message: 'ETN Staking' }),
+    translate({ id: 'homepage.typewriterWords.etnJemaa', message: 'ETN Jem’aa' }),
+    translate({ id: 'homepage.typewriterWords.etnNetsaLancer', message: 'ETN Netsa-Lancer' }),
+    translate({ id: 'homepage.typewriterWords.etnTravel', message: 'ETN Travel' }),
+    translate({ id: 'homepage.typewriterWords.etnCards', message: 'ETN Cards' }),
+    translate({ id: 'homepage.typewriterWords.etnKazna', message: 'ETN Kazna' }),
+    translate({ id: 'homepage.typewriterWords.etnTemplates', message: 'ETN Templates' }),
+    translate({ id: 'homepage.typewriterWords.etnFM', message: 'ETN-FM' }),
+    translate({ id: 'homepage.typewriterWords.etnNumbers', message: 'ETN Numbers' }),
+    translate({ id: 'homepage.typewriterWords.guardiansOfEthiopia', message: 'Guardians of Ethiopia' }),
+    translate({ id: 'homepage.typewriterWords.etnAuth', message: 'ETN Auth' }),
+    translate({ id: 'homepage.typewriterWords.etnGulit', message: 'ETN Gulit' }),
+    translate({ id: 'homepage.typewriterWords.etnEqub', message: 'ETN Equb' }),
+    translate({ id: 'homepage.typewriterWords.etnDevs', message: 'ETN Devs' }),
+    translate({ id: 'homepage.typewriterWords.etnDaily', message: 'ETN Daily' }),
+    translate({ id: 'homepage.typewriterWords.etnBio', message: 'ETN Bio' }),
+    translate({ id: 'homepage.typewriterWords.netsaAI', message: 'NetsaAI' }),
+    translate({ id: 'homepage.typewriterWords.etnAuthenticator', message: 'ETN Authenticator' }),
   ];
 
   return (
     <header
       className={clsx('hero', styles.heroBanner)}
-      style={{
-        background: 'linear-gradient(135deg, #133A2A 0%, #1B5E20 100%)',
-        padding: '5rem 0',
-        boxShadow: '0 4px 20px rgba(0, 0, 0, 0.3)',
-        borderBottom: '1px solid rgba(255, 255, 255, 0.1)',
-      }}
     >
       <div className="container text--center">
         <img
@@ -78,7 +73,7 @@ function HomepageHeader() {
               etn: <span style={{ color: '#FFB400' }}>ETN</span>,
             }}
           >
-            {'The {etn} Ecosystem'}
+            {'{etn} Ecosystem'}
           </Translate>
         </Heading>
 
@@ -144,8 +139,56 @@ function HomepageHeader() {
   );
 }
 
+
+import Head from '@docusaurus/Head';
+
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "ETN Ecosystem Docs",
+    "alternateName": ["ETN Docs", "ETN Ecosystem Documentation"],
+    "url": "https://docs.etnecosystem.org",
+    "applicationCategory": "Web3 Application",
+    "operatingSystem": "TON Blockchain",
+    "description": "The official documentation for the ETN Ecosystem, a suite of decentralized platforms built on the TON blockchain to empower Ethiopia and beyond. It serves the ETN Ecosystem by providing comprehensive guides and references.",
+    "disambiguatingDescription": "This application is part of the ETN Ecosystem built on The Open Network (TON) Blockchain. It utilizes the $ETN Jetton. It is completely distinct from and unrelated to the Electroneum blockchain or cryptocurrency.",
+    "author": {
+      "@type": "Person",
+      "name": "Jason Peters (JP)",
+      "jobTitle": "Founder of ETN Ecosystem",
+      "url": "https://jasonpeters-ton.etnecosystem.org/",
+      "sameAs": [
+        "https://x.com/etnetsa",
+        "https://t.me/et_apps"
+      ]
+    },
+    "contributor": {
+      "@type": "Person",
+      "name": "Nathnael Biruk",
+      "jobTitle": "Co-Founder of ETN Ecosystem",
+      "url": "https://linkedin.com/in/nathnaelbiruk",
+      "sameAs": [
+        "https://x.com/nathnaelbruke",
+        "https://github.com/NathiB"
+      ]
+    },
+    "isRelatedTo": {
+      "@type": "FinancialProduct",
+      "name": "ET Netsa Coin ($ETN)",
+      "tickerSymbol": "ETN",
+      "description": "The native utility token of the ETN Ecosystem on TON. Distinct from Electroneum.",
+      "identifier": "EQAz_XrD0hA4cqlprWkpS7TIAhCG4CknAfob1VQm-2mBf5Vl"
+    },
+    "sameAs": [
+      "https://x.com/etnetsa",
+      "https://t.me/et_apps",
+      "https://t.me/etnetsacoin",
+      "https://www.youtube.com/@ETNetsaCoin"
+    ]
+  };
+
   return (
     <Layout
       title={`${translate({
@@ -159,6 +202,11 @@ export default function Home() {
         description: 'The meta description of the home page',
       })}
     >
+      <Head>
+        <script type="application/ld+json">
+          {JSON.stringify(schema)}
+        </script>
+      </Head>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
