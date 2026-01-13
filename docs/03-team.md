@@ -41,7 +41,4 @@ The ETN Ecosystem is driven by a dedicated and experienced team committed to its
 *   **Welid Sherif** – Community Organizer for ETN Ecosystem
     *   **Background & Contribution:** ET Netsa Apps community moderator. Leads community initiatives, promoting engagement and user adoption within the ecosystem.
 
-### General Team Members
 
-*   **Molla Adera** – Team Member
-    *   **Background & Contribution:** Contributes to the overall development and success of the ETN ecosystem with versatile support.

@@ -13,15 +13,54 @@
   --ifm-color-primary-light: #15402e;
   --ifm-color-primary-lighter: #164330;
   --ifm-color-primary-lightest: #194b37;
+
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+  --ifm-heading-font-family: 'Outfit', sans-serif;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Dark Mode Palette - Gold & Deep Green */
 [data-theme='dark'] {
   --ifm-color-primary: #ffb400;
+  /* Gold */
   --ifm-color-primary-dark: #e6a200;
   --ifm-color-primary-darker: #d99900;
   --ifm-color-primary-darkest: #b37e00;
   --ifm-color-primary-light: #ffbc1a;
   --ifm-color-primary-lighter: #ffbf26;
   --ifm-color-primary-lightest: #ffcb4d;
+  --ifm-background-color: #0d1f18;
+  /* Very dark green/black */
+}
+
+/* Glassmorphism Utility */
+.glass-card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='light'] .glass-card {
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--ifm-background-color);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--ifm-color-primary);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ifm-color-primary-light);
 }

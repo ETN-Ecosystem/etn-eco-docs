@@ -8,11 +8,22 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background: linear-gradient(-45deg, #133a2a, #0f2e23, #1e5c45, #133a2a);
+  background-size: 400% 400%;
+  animation: gradientBG 15s ease infinite;
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
+@keyframes gradientBG {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
   }
 }
 
@@ -21,6 +32,7 @@
   align-items: center;
   justify-content: center;
 }
+
 .etnLogo {
   fill: #FFB400;
   width: 100px;

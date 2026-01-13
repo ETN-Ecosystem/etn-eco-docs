@@ -358,7 +358,7 @@
     "description": "The title of the tag list page"
   },
   "homepage.title": {
-    "message": "Ecosystem"
+    "message": "The {etn} Ecosystem"
   },
   "homepage.subtitle": {
     "message": "Ethiopia Unchained"
