@@ -22,7 +22,7 @@ const config = {
 
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'am', 'om'],
+    locales: ['en', 'am', 'om', 'ru'],
     localeConfigs: {
       en: {
         label: 'English',
@@ -33,6 +33,10 @@ const config = {
       },
       om: {
         label: 'Afaan Oromoo',
+        direction: 'ltr',
+      },
+      ru: {
+        label: 'Русский',
         direction: 'ltr',
       },
     },

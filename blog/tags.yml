@@ -88,3 +88,33 @@ etn_learn:
   permalink: /tags/etn_learn
   description: ETN Ecosystemns Learning Platform.
 
+
+etn_ecosystem:
+  label: ETN Ecosystem
+  permalink: /tags/etn-ecosystem
+  description: The official ETN Identity, Financial, and Social Ecosystem.
+
+identity:
+  label: Identity
+  permalink: /tags/identity
+  description: Digital identity solutions, OIDC, and user authentication.
+
+sdk:
+  label: SDK
+  permalink: /tags/sdk
+  description: Software Development Kits for integrating the ETN Ecosystem.
+
+ton_blockchain:
+  label: TON Blockchain
+  permalink: /tags/ton-blockchain
+  description: Technical details and integrations with The Open Network (TON).
+
+web3_auth:
+  label: Web3 Auth
+  permalink: /tags/web3-auth
+  description: Decentralized authentication flows such as Sign-in with ETN.
+
+developer_tools:
+  label: Developer Tools
+  permalink: /tags/developer-tools
+  description: Resources, libraries, and guides for developers building on ETN.

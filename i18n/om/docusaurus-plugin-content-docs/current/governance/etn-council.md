@@ -1,151 +1,84 @@
 ---
 sidebar_position: 1
-title: "Bulchiinsa fi Murtoo Kennuu: Mana Maree ETN"
-sidebar_label: Mana Maree ETN
+title: Bulchiinsa fi Caasaa (Governance and Structure)
+sidebar_label: Bulchiinsa fi Caasaa
 ---
 
-# Bulchiinsa fi Murtoo Kennuu: Mana Maree ETN
+# 🛡️ Waliigala
 
-Sirni Ikkoo ETN Dhaabbata Waloo Hin Taane Kan Of Danda'e (DAO)n kan bulfamu yoo ta'u, kunis murtoo kennuu kan hawaasaan geggeeffamu fi bulchiinsa ifa ta'e mirkaneessa.
+Ekosistimiin $ETN namoota pirojekticha keessatti invast godhanii fi deggaran humneessuuf, caasaa bulchiinsaa gad-aanaa (decentralized) fi hawaasaan-ooffamu uumuuf kan dizaayinii ta'eedha. Caasaan kun Boondiiwwan Kaazinaa, NFTwwan addaa, fi qabeenyawwan SBT qabaatee, pirojektichi harka invastaroota isaa keessa akka turu mirkaneessaa, gama biraan immoo to'annoo fi itti-fufiinsa barbaachisaa garee misoomaa irraa eega.
 
-## DAO Maali?
+## 💰 Boondiiwwan Kaazinaa (Treasury Bonds)
 
-Dhaabbata Waloo Hin Taane Kan Of Danda'e (DAO) dhaabbata hawaasaan geggeeffamu kan abbaa aangoo giddugaleessaa hin qabne dha. Guutummaatti of danda'aa fi ifa yoo ta'u, smart contractiiwwan seera bu'uuraa kaa'uun fi murtoo waliigalame hojii irra oolchu.
+### 🏦 Boondii Kaazinaa $ETN
 
-## Ijaarsa DAO ETN
+**Dhiheessii Waliigalaa:** Boondiiwwan Kaazinaa $ETN 200
 
-### Tokenii Bulchiinsaa
-- Warri tokenii ETN qaban bulchiinsa keessatti hirmaachuu danda'u
-- Humna sagalee kennuu kan baay'ina tokenii waliin walsimu
-- Fedhii tokenii xiqqaa kan yaada dhiyeessuuf
+**Ulaagaa Guutuu:** Boondiiwwan kunneen namoota $ETN Liquidity Pool (Kuusaa Dhangala'aa) dhaaf arjoomaniif kennamu.
 
-### Murtoo Kennuu
-1. **Yaada Dhiyeessuu**
-   - Miseensonni hawaasaa yaada dhiyeessuu danda'u
-   - Yaada dhiyaate fedhii xiqqaa guutuu qaba
-   - Yaada teeknikaa fi teeknikaa hin taane fudhatama
+**Tajaajila:**
+*   Abbootiin qabeenyaa boondiiwwan kanaa wallet isaanii gara ekosistimii $ETN tti wal-qabsiisuu danda'u.
+*   🤖 Bootiin tokko abbummaa NFT Boondii Kaazinaa ni mirkaneessa.
+*   🔐 Abbootiin qabeenyaa mirkanaa'an chati dhuunfaa cufaa kan akka qaama bulchiinsaa saantima $ETN tti tajaajiluu argatu.
 
-2. **Hojii Sagalee Kennuu**
-   - Warri tokenii qaban yaada dhiyaate irratti sagalee kennu
-   - Yeroon sagalee kennuu yeroo baay'ee guyyaa 7 tti dheerata
-   - Sagaleen baay'een bu'aa murteessa
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FwusW2gjRhXWVyOIwlDae%2Fuploads%2FLLbmBvQdX1u9EEYfKNtB%2F20240617_083817.png?alt=media&token=78142a17-6f01-4ceb-bbdb-bb84d315ec45" alt="Treasury Bond" width="300" />
 
-3. **Hojii Irra Oolchuu**
-   - Yaada dhiyaate kan fudhatame gareen hojii irra oolcha
-   - Guddinni hordofamaa fi gabaafama
-   - Yaada hawaasaa dabalata
+## 🏛️ Caasaa Bulchiinsaa
 
-## Kutaa Bulchiinsaa
+### 🔗 SBT (Soulbound Tokens)
 
-### Misooma Madaallii
-- Yaada hojii haaraa
-- Fooyya'iinsa madaallii
-- Fooyya'iinsa teeknikaa
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FwusW2gjRhXWVyOIwlDae%2Fuploads%2FZCppLK7bHvJ6PmEUra68%2Fimage.png?alt=media&token=c986789f-abcb-4171-8c88-90431e82ea72" alt="SBT Sample" width="300" />
 
-### Sochiilee Hawaasaa
-- Sochiilee hawaasaa
-- Sagantaalee barnootaa
-- Yaada walitti dhufeenyaa
+**Dhiheessii Waliigalaa:** Qabeenyawwan SBT 8
 
-### Bulchiinsa Qabeenyaa
-- Ramaddii maallaqaa
-- Hayyama baajataa
-- Murtoo investii
+**Abbummaa:** Dhaabbataadhaan walletota miseensota garee misoomaatiin qabamu.
 
-## Hirmaannaa
+**Daangaa:** Tookenoonni kunniin hin haqaman ykn hin gurguraman.
 
-### Akkamitti Hirmaachuu
-1. Tokenoota ETN qabaadhu
-2. Marii bulchiinsaa irratti makami
-3. Yaada dhiyeessi
-4. Yaada dhiyaate irratti sagalee kenni
+**Kaayyoo:** Misoomsitoonni abbaa taayitaa dubbisuu miseensota mana maree (council members) mo'achuu danda'u otoo hin qabaatin pirojekticha keessatti hogganoota ta'anii akka itti fufan mirkaneessuu.
 
-### Faayidaalee
-- Misooma sirna ikkoo qajeelchuu
-- Badhaasa bulchiinsaa argachuu
-- Beekamtii ijaaruu
-- Hawaasa waliin walitti dhufeenya uumuu
+### 🧑‍⚖️ NFTwwan Bulchiinsaa (Governance NFTs)
 
-## Bulchiinsa Ammaa
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FwusW2gjRhXWVyOIwlDae%2Fuploads%2FB19m029QS1Tf9Q313wNt%2Fimage.png?alt=media&token=ace8fba8-5887-4874-ace0-ce1e457cda50" alt="$ETN Council Minister NFT" width="300" />
 
-### Yaada Dhiyaate Hojjechaa Jiru
-- Yaada dhiyaate ammaa argachuuf portalii bulchiinsaa ilaali
-- Yaada dhiyaate fi dhiibbaa isaa qoradhu
-- Sagalee kee kenni
+**Dhiheessii Waliigalaa:** NFTwwan Bulchiinsaa 11
 
-### Murtoo Darbe
-- Yaada dhiyaate kan darbe ilaali
-- Guddinni hojii irra oolmaa hordofi
-- Murtoo darbe irraa baradhu
+*   **NFTwwan Ministira Mana Maree $ETN 10:** Tokkoon tokkoon isaanii GetGems irratti 10 TON dhaan bittaaf dhihaatu.
+*   **NFT Invastaraa $ETN 1:** 100 TON dhaan bittaaf dhihaata.
 
-## Misooma Fuulduraa
+#### 🏅 Ministiroota Mana Maree
 
-### Fooyya'iinsa Karoorfame
-- Tooftaalee sagalee kennuu fooyya'an
-- Sirna yaada dhiyeessuu fooyya'aa
-- Interface fayyadamaa gaarii
-- Deeggarsa bulchiinsa moobaayilii
+**Gahee:** Ministiroonni mana maree, hogganoota mana maree gadiitti sadarkaa tokko, ekosistimii garee misoomaa keessa hin jirre keessatti aangoo sagalee fi dhiibbaa olaanaa qabu.
 
-### Yaada Hawaasaa
-- Qorannoo bulchiinsaa yeroo hundaa
-- Waamicha hawaasaa
-- Karaa yaadaa
+**Itti-gaafatamummaa:** Murteewwan ijoo irratti hirmaachuun, kaka'umsa dhiheessuun, fi misooma pirojektichaa qajeelchuun egeree $ETN bocuu.
 
-Mana Maree ETN, kan dao.ETnetsaCoin.tonn argamu, qaama bulchiinsaa kan Sirna Ikkoo ETN ti. Murtoo kennuu waloo hin taane salphisuuf kan ijaarame yoo ta'u, kanneen qabeenya qabanif sagalee guddaa kan tooftaalee madaallii, dursa misoomaa, fi odeeffannoo sirna ikkoo qajeelchuuf kenna. **Bulchiinsi NFT qofa irratti hundaa'e dha, kunis mirga sagalee kennuu kan abbummaa NFTwwan bulchiinsaa addaa fi $ETN Treasury Bonds waliin kan walqabatu dha, tokenii $ETN waliigalaa qabachuu osoo hin taane.**
+## ⚙️ Adeemsa Bulchiinsaa
 
-## Karaa Bulchiinsa Waloo Hin Taane
+### 🔗 Wal-qabsiisa fi Mirkaneessa:
+*   Abbootiin qabeenyaa boondii wallet isaanii gara waltajjii $ETN tti wal-qabsiisu.
+*   🤖 Bootiin tokko jiraachuu NFT Boondii Kaazinaa $ETN ni mirkaneessa.
 
-Karaa bulchiinsa Mana Maree ETN blokcheenii TON irratti kan ijaarame yoo ta'u, kunis yaada dhiyaate fi sochiiwwan sagalee kennuu hundi akka transakshinii on-chainitti galmaa'an mirkaneessa. Tooftaan kunis, hojiiwwan bulchiinsaa hundaaf iftoominaa fi jijjiirama hin qabne guddaa kenna. Walsimsiisa waletii nageenya qabu kan hirmaannaa kan TON Connect SDK fayyadamuun kan hojjetamu yoo ta'u, kunis abbummaa NFTwwan bulchiinsaa addaa fi Treasury Bonds mirkaneessuun, humna sagalee kennuu nama tokkoo murteessa.
+### 🔒 Gahiinsa Chatii Bulchiinsaa:
+*   Abbootiin qabeenyaa boondii mirkanaa'an chatii dhuunfaa bakka mariin fi murteewwan waa'ee pirojektii $ETN itti gaggeeffamanitti akka seenan hayyamamaaf.
 
-## Qabeenya Bulchiinsaa: Ijaarsa fi Dhiibbaa
+### 🗳️ Murtee Kennuu:
+*   Miseensonni mana maree kaka'umsa, jijjiiramoota, fi kallattiiwwan fuula-duraa pirojektichaaf dhiheessu fi sagalee kennu.
+*   Misoomsitoonni, qabeenyawwan SBT isaanii fayyadamuun, aangoo sagalee caalmaa otoo hin qabaatin ni hirmaatu, kunis bulchiinsa hawaasaan-ooffamu mirkaneessa.
 
-Bu'uura ijaarsa murtoo kennuu Sirna Ikkoo ETN kanneen NFTwwan fi qabeenya tokenii adda addaa irraa kan ijaarame yoo ta'u, tokkoon tokkoon isaa hojii fi humna sagalee kennuu addaa qaba:
+## 🌟 Dhiibbaa Pirojekticha Irratti Qabu
 
-### $ETN Treasury Bonds: Hojii fi Humna Sagalee Kennuu
+### 🏛️ Gadi-lakkifamuu fi To'annoo Hawaasaa:
+*   Caasaan bulchiinsaa namoonni pirojekticha irratti invast godhan egeree isaa irratti gahee guddaa akka qabaatan mirkaneessa.
+*   Aangoo sagalee misoomsitootaa daangessuun, pirojektichi amala gadi-lakkifamaa (decentralized) isaa eega akkasumas balaa giddu-galeessummaa (centralization) ni hir'isa.
 
-Kutaa ijaarsa bulchiinsaa kan $ETN Treasury Bonds dabalata. Bondiiwwan akkasii 200 guutummaatti jiru. Tokkoon tokkoon $ETN Treasury Bond kan qabuuf sagalee tokko kan hojii bulchiinsaa keessatti kenna, kunis sadarkaa bu'uuraa kan hirmaannaa kanneen bondii qabanif kenna. **Tooftaa bulchiinsaa kan NFT qofa irratti hundaa'e keessatti, kunneen akka qabeenya tokenii mirkanaa'aa (akka NFTwwan) kan sagalee kennuuf fayyadanitti hubatamu.**
+### 🌱 Misooma Itti-fufiinsa Qabu:
+*   Hirmaannaan itti-fufiinsa qabu kan garee misoomaa wal-itti-fufiinsa teeknikaa fi tarsiimoo mirkaneessa.
+*   Murtee-kennuun hawaasaan-ooffamu kalaqa (innovation) ni jabeessa akkasumas kallattii pirojektichaa fedhii invastaroota isaa wajjin wal-simsiisa.
 
-### NFTwwan Bulchiinsaa: Ijaarsa fi Dhiibbaa
+### 🎯 Hirmaannaa Fooyya'e:
+*   Gukkoon addaa gara chatii bulchiinsaa hirmaannaa fi qooda-fudhatummaa abbootii qabeenyaa boondii ni jajjabeessa.
+*   Baay'inni daangeffamaan NFTwwan mana maree abbootii qabeenyaa isaaniitiif iddoo kabajamaa fi dhiibbaa qabu uuma.
 
-Treasury Bonds dabalataan, Non-Fungible Tokens (NFTs) addaa kanneen hojii bulchiinsa Mana Maree ETN keessatti ga'ee murteessaa qabu. Kanneenis akka armaan gadiitti ramadamu:
+## 🔮 Gudunfaa
 
-#### SBT (Soulbound Tokens):
-
-Qabeenya Waliigalaa: Qabeenya SBT 8 jira.
-
-Abbummaa: Tokenoonni kunis waletiiwwan garee misoomaa kanneen yeroo hundaa qabaman.
-
-Humna Sagalee Kennuu: Tokkoon tokkoon SBT humna sagalee kennuu guddaa kan sagalee 10 qaba.
-
-Daangaa: SBTwwan hin jijjiiramne, kunis humna sagalee kennuu addaa kana garee misoomaa bu'uuraa waliin akka turu mirkaneessa, kunis hogganummaa fi beekumsa walirraa hin cinne kennuuf.
-
-#### Council Minister NFTs:
-
-Qabeenya Waliigalaa: Walumaagalatti Council Minister NFT 10 jira.
-
-Price: NFTwwan kunis tokkoon tokkoon isaa TON Coin 10n bitamuu danda'u.
-
-Humna Sagalee Kennuu: Humna sagalee kennuu kan NFTwwan kanaaf galmaa'e irratti wal-dhabbiin jira: madda tokko tokkoon sagalee 10 kan agarsiisu yoo ta'u, kan biraa immoo sagalee 5 agarsiisa. **Humna sagalee kennuu dhugaa mirkaneessuuf garee ETN irraa ibsa dabalataa barbaachisa.**
-
-#### Investor NFTs:
-
-Qabeenya Waliigalaa: Investor NFT 2 jira.
-
-Price: Kanneen NFTwwan bulchiinsaa addaa yoo ta'an, tokkoon tokkoon isaa TON Coin 50n gatii qabu.
-
-Humna Sagalee Kennuu: Tokkoon tokkoon Investor NFT humna sagalee kennuu kan sagalee 10 qaba.
-
-## Hojii Bulchiinsaa: Yaada Dhiyaate fi Sagalee Kennuu
-
-Hojiin bulchiinsaa kan jalqabu yeroo miseensonni waletii TON isaanii TON Connect SDK fayyadamuun madaallii Mana Maree ETN waliin walitti hidhan. Madaalliiwwan kunis abbummaa miseensaa kan qabeenya bulchiinsaa barbaachisaa (SBTs, Council Minister NFTs, Investor NFTs, fi Treasury Bonds) mirkaneessa fi humna sagalee kennuu isaa kenna. Miseensonni mirkanaa'an gara daashboordii bulchiinsaa argachuu danda'u, achitti yaada dhiyaate kan jijjiirama sirna ikkoo yookiin sochiiwwan dhiyeessuu fi yaada dhiyaate jiru irratti sagalee kennuu danda'u. Sagaleen kan ulfaatu kan humna sagalee kennuu walitti qabame kan yeroo miseensaa qabeenya bulchiinsaa adda addaa qabu irraa argame irratti hundaa'uun.
-
-| Akaakuu Qabeenya Bulchiinsaa                 | Qabeenya Waliigalaa | Karaa Argachuu/Gatii                                                                    | Humna Sagalee Kennuu Tokkoon Tokkoon | Hojiilee/Ga'ee Bu'uuraa                                                                                                                               |
-|---------------------------------------|--------------|--------------------------------------------------------------------------------------|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| $ETN Treasury Bond                    | 200          | Karaa argachuu guutummaatti ifa ta'uu qaba (tarii bitannaa kallattii, staking, yookiin badhaasa hirmaannaa sirna ikkoo) | 1 sagalee                | Hirmaannaa bal'aa kanneen qabeenya qabanif kan yaade, humna sagalee kennuu bal'inaan hawaasa keessatti raabsuuf. Akka qabeenya tokenii mirkanaa'aa kan sagalee kennuuf fayyadu. |
-| SBT (Soulbound Token)                 | 8            | Waletiiwwan Garee Misoomaan Qabame                                                     | 10 sagalee              | Hin jijjiiramne; bulchiinsa garee bu'uuraa fi itti fufiinsa tooftaa mirkaneessa.                                                                              |
-| Council Minister NFT                  | 10           | Tokkoon tokkoon isaa TON Coin 10                                                                    | 5 yookiin 10 sagalee         | Miseensota mana maree sochii qaban fi hogganummaa hawaasaaf; hirmaannaa bal'aa kan bulchiinsaa dandeessisa. **Humna sagalee kennuu ibsa barbaada.**                  |
-| Investor NFT                          | 2            | Tokkoon tokkoon isaa TON Coin 50                                                                    | 10 sagalee              | Investitoota gurguddoo kanneen tooftaa fi dhiibbaa sirna ikkoo keessatti barbaadanif.                                                            |
-
-Ijaarsi bulchiinsa Mana Maree ETN, kan tooftaalee tokenii adda addaa—$ETN Treasury Bonds kanneen fungible fi NFTwwan adda addaa—tokkoon tokkoon isaa ulfaatina sagalee kennuu fi tooftaalee argachuu addaa qaban fayyadamuun, sirna madaalawaa uumuuf yaalii tooftaa qophaa'e agarsiisa. Tooftaan kunis fedhiiwwan gareewwan qabeenya qaban adda addaa walitti fiduu fi madaaluu barbaada. Soulbound Tokens (SBTs), kanneen humna sagalee kennuu guddaa qaban fi hin jijjiiramne, garee misoomaan qabamu. Filannoon dizayinii kunis mul'ata keessatti itti fufiinsaa fi gabaasa ogummaa kan murtoolee bulchiinsaa murteessoo keessatti argamu dandeessisa, kunis dhiibbaa hogganummaa bu'uuraa salphaatti akka hin hir'ifamne yookiin gareewwan alaan akka hin argamne dhorka. Investor NFTs, kanneen gatii olaanaa fi humna sagalee kennuu guddaa qaban, sagalee guddaa kanneen qabeenya faayinaansii guddaa kan sirna ikkoo kanaaf gumaachanif kennuuf qophaa'an. Council Minister NFTs, kanneen Investor NFTs irra salphaatti argaman, garuu ammas investii (TON Coin keessatti, $ETN osoo hin taane) barbaadan, sadarkaa giddugaleessaa kan dhiibbaa kenna, tarii miseensota hawaasaa sochii qaban fi kutannoo qaban kanneen hojii bulchiinsaa caalaatti ofiisaa fudhachuu barbaadanif. Dhuma irratti, $ETN Treasury Bonds, tilmaamaan $ETN fayyadamuun kan argaman (garuu tooftaan argachuu isaa guutummaatti hin ibsne), bu'uura bal'aa kan hirmaannaa kenna, kanneen $ETN qabanif sagalee tokko tokkoon bondii irratti sagalee kennuu dandeessisa.
-
-Tooftaan sadarkaa baay'ee qabu kunis, beekumsa misoomaa, investii faayinaansii guddaa, fi miira hawaasaa bal'aa hundi karaa dhiibbaa adda addaa kan DAO keessatti qaban mirkaneessuuf qophaa'e fakkaata. Ijaarsi akkasii kunis, hojiiwwan murtoo kennuu kanneen caalaatti cimaa, guutuu, fi dandeettii jiraachuu qabanitti geessuu danda'a. Haa ta'u malee, walxaxina kunis rakkoolee dhalootaa qaba, keessattuu bakka bu'iinsa dhugaa kanneen qabeenya qaban hunda gidduutti mirkaneessuu fi dandeettii bulchiinsa maallaqaa dhorkuu, yoo humna madaallii qophaa'een hin to'atamne fi yeroo yeroon hin qoratamin. Filannoon dizayinii beekamaa inni tokko, gatii NFTwwan bulchiinsaa bu'uuraa (Council Minister fi Investor NFTs) TON Coin keessatti, $ETN osoo hin taane. Kunis murtoo tooftaa kan maallaqa alaa kallattiin gara sadarkaa bulchiinsa sirna ikkoo kanaatti harkisuuf yookiin hirmaannaan bulchiinsaa qabeenya TON networkii irratti hundaa'e kan caalaatti hundaa'e fi liikiidii ta'een akka deeggaramu mirkaneessuuf. Sirni bulchiinsaa NFT irratti hundaa'e bal'aa kunis, jijjiirama guddaa kan ibsa salphaa kan waraqaa adii $ETN jalqabaa keessatti argamu irraa kan agarsiisu yoo ta'u, kunis tokenii $ETN qaban mirga sagalee kennuu akka qaban ibsa, kunis falaasama bulchiinsa piroojektichaa gara tooftaa caalaatti ijaarame fi bal'aa ta'etti jijjiirama agarsiisa.
+Ekosistimiin $ETN bu'uura gadi-lakkifamuu, hirmaannaa hawaasaa, fi misooma itti-fufiinsa qabu irratti ijaarame. Boondiiwwan Kaazinaa, NFTwwan Bulchiinsaa, fi qabeenyawwan SBT walitti-makuun, pirojektichi to'annoo barbaachisaa misoomsitoota isaa irraa eegaa, egereen isaa warra milkaa'ina isaa irratti invast godhaniin akka bocamu mirkaneessa. Moodeelli bulchiinsaa kalaqaa kun $ETN addunyaa faayinaansii gadi-lakkifamaa (DeFi) keessatti, hawaasa kutannoo fi humna qabuun kan ooffamu, akka hogganaatti isa kaa'a.

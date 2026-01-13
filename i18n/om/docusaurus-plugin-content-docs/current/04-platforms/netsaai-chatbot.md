@@ -1,113 +1,81 @@
 ---
-sidebar_position: 1
-title: Netsaai Chatbot
-sidebar_label: Netsaai Chatbot
+sidebar_position: 26
+title: Galmee Ragaa NetsaAI
+sidebar_label: NetsaAI
 ---
 
-# Netsaai Chatbot
+# Galmee Ragaa NetsaAI
 
-Netsaai madaallii chatbotii kan AI-n humneeffame kan deeggarsa ogummaa fi odeeffannoo waa'ee Sirna Ikkoo ETN kennuuf qophaa'e dha.
+## Waliigala
 
-## Ilaalcha Waliigalaa
+**NetsaAI** Ekosistimii ETN keessatti gargaaraa daldalaa AI dhaan humneeffame filatamaadha. Akka "Hojjetaa Lakk. 1" keessaniitti akka hojjetuuf kan dizaayinii ta'e NetsaAI, daataa keessoo dhaabbata keessanii gara gargaarsa abshaalaa 24/7 fi ejentii gurgurtaatti jijjiira. Kallattiin TON Blockchain fi Telegram Business wajjin wal-qabachuun, carraa (lead) tokkollee akka hin dhabne mirkaneessa.
 
-### Kaayyoo
-- Deeggarsa battalaa kennuu
-- Gaaffiiwwan waliigalaa deebisuu
-- Fayyadamtoota madaalliiwwan keessa geggeessuu
-- Odeeffannoo sirna ikkoo walii qooduu
+### Bu'aalee Ijoo
 
-### Hojiilee
-- Sa'aatii 24/7 argamuu
-- Deeggarsa afaan baay'ee
-- Deebiiwwan haala waliin walsiman
-- Walsimsiisa madaallii
+*   **Argamummaa 24/7:** Guyyaa ykn halkan, dhuma torbanii, fi ayyaanota irratti ni hojjeta.
+*   **Scalability Guddaa:** Maamiltoota yeroo wal-fakkaataa dhufan daangaa malee tursiisa tokko malee keessummeessa.
+*   **Beekumsa Gadi-fagoo:** Battalumatti oomishalee fi qajeelfamoota keessan irratti ni leenjifama.
+*   **ROI Kallattii:** Fedhii qabata fi gurgurtaawwan halkan-dheeraa hanga **40%** ni dabala.
 
-## Dandeettiiwwan
+---
 
-### Odeeffannoo
-- Odeeffannoo sirna ikkoo
-- Qajeelcha madaallii
-- Odeeffannoo tokenii
-- Oduu hawaasaa
+## Jalqabuu: Qophii Tarkaanfii-3
 
-### Deeggarsa
-- Deeggarsa teeknikaa
-- Gargaarsa akkaawuntii
-- Qajeelcha transakshinii
-- Navigeeshinii madaallii
+Waltajjiin NetsaAI saffisaaf kan ijaarame yoo ta'u, kunis qophii irraa gara gargaarsa kallattiitti daqiiqota keessatti akka ceetan isin dandeessisa.
 
-### Walsimsiisa
-- Walitti dhufeenya madaallii
-- Walitti hidhata tajaajilaa
-- Walitti makamuu odeeffannoo
-- Mirkaneeffannaa fayyadamaa
+### 1. AI Keessan Haalessaa (Customize)
 
-## Muuxannoo Fayyadamaa
+"Sammuu" ejentii keessanii murteessuuf 'wizard' qajeelfamaa xumuraa.
 
-### Interface
-- Dizayinii qulqulluu
-- Navigeeshinii salphaa
-- Deebiiwwan ariifataa
-- Bilbilaaf mijataa
+*   **Bu'uura Beekumsaa (Knowledge Base):** Faayiloota `.pdf`, `.docx`, ykn `.txt` kanneen gaaffiiwwan irra-deddeebi'amoo (FAQs) oomishaa fi qajeelfamoota tajaajilaa qaban fe'aa.
+*   **Namummaa (Personality):** Sagalee 'brand' keessanii murteessaa (Fkn: Michummaa & Salphaa vs. Idilee & Piroofeeshinaala).
 
-### Walqunnamtii
-- Afaan uumamaa
-- Hubannoo haala
-- Deebiiwwan dhuunfaa
-- Deeggarsa itti fufiinsaa
+### 2. Telegram Business Wajjin Wal-qabsiisaa
 
-## Odeeffannoo Teeknikaa
+NetsaAI suutii Telegram Business tiif kan mijatedha:
 
-### Ijaarsa
-- Sirna AI-n humneeffame
-- Walsimsiisa blokcheenii TON
-- Quunnamtii nageenya qabu
-- Dhuunfaa odeeffannoo
+1. Gara **Telegram Settings** keessanii deemaa.
+2. **Telegram Business** -> **Chatbots** filadhaa.
+3. **@NetsaAIBot** dabalaa fi chatiwwan kam akka argachuu danda'u murteessaa.
 
-### Nageenya
-- Encryption guutuu
-- Eegumsa odeeffannoo fayyadamaa
-- Mirkaneeffannaa nageenya qabu
-- To'annoo dhuunfaa
+### 3. Kallattiin Gad-lakkisaa (Go Live)
 
-## Misooma
+Yeroo wal-qabatu, AI keessan ni hojjeta. Gaaffiiwwan dhufan ofumaan niu adeemsisa, beellama ni qaba, fi daataa keessan irratti hundaa'uun deebiiwwan abshaalaa ni kenna.
 
-### Karaa Misoomaa
-- Dandeettiiwwan AI fooyya'an
-- Deeggarsa afaan haaraa
-- Bal'ina madaallii
-- Odeeffannoo hojii
+---
 
-### Odeeffannoo
-- Fooyya'iinsa yeroo hundaa
-- Sirreeffama dogoggoraa
-- Hojiilee haaraa
-- Fooyya'iinsa hojii
+## Kaffaltii & Credit Appii-Keessaa
 
-## Fayyadama
+NetsaAI sirna **In-App Credit** fayyadama. Ergaa hundaaf kallattiin wallet keessan irraa AI dhaaf hin kaffaltan; kanaa mannaa, baalansii kuusaa daataa NetsaAI keessatti qabdu kan yeroo AI'n hojjetu dhumu.
 
-### Akkamitti Fayyadamuu
-1. Madaallii fayyadamuun argachuu
-2. Marii jalqabuu
-3. Gaaffii gaafachuu
-4. Deeggarsa argachuu
+### Ya'a Kuusaa Eegamaa (TON Connect & Payload Signing)
 
-### Hojiilee Gaarii
-- Gaaffiiwwan ifa ta'an
-- Gaaffiiwwan addaa
-- Gaaffiiwwan itti fufiinsaa
-- Yaada kennuu
+Nageenya sadarkaa olaanaa mirkaneessuu fi jijjiirama transaakshinii ittisuuf, NetsaAI sirna **Backend-Signed Payload** fayyadama.
 
-## Deeggarsa
+1.  **Hamma Galchaa:** Hamma **$ETN** kuusuu barbaaddan galchaa.
+2.  **Uumama Payload Eegamaa:** Sirnichi **UUID** addaa fi 'payload' transaakshinii (BOC) backend ofiin-keessummeessinu (self-hosted) irratti uuma.
+3.  **Mallattoo Baayinaarii (Binary Signature):** Backend'n keenya daataa transaakshinichaa furtuu dhuunfaan (private key) mallatteessa. **Baayinaariin Mallatteeffame (Signed Binary)** kun hammaa fi bakka-gahumsaan qaama sadaffaan ykn iskiriiptii naannoo tiin otoo wallet keessan hin gahin dura akka hin jijjiiramne mirkaneessa.
+4.  **Wal-qabsiisa Wallet:** **TON Wallet Connect** fayyadamuun, appilikeeshinichi 'payload' mallatteeffame gara wallet wal-qabate keessaniitti erga.
+5.  **Raawwii Transaakshinii:** Isin transaakshinicha gara **ETN Ecosystem Wallet** yeroo hunda koodiin barreeffamee (hard-coded) jiruutti mirkaneessitu.
+6.  **Mirkaneessa Backend:** Backend'n keenya wallet ekosistimii ni hordofa. **UUID** ergaa keessa jiru ni mirkaneessa fi maallaqni dhufes gaaffii hayyamame wajjin wal-gituu isaa mirkaneessuuf **Mallattoo Baayinaarii** ni keewwata.
+7.  **Credit Kuusaa Daataa:** Yeroo TON Blockchain irratti mirkanaa'u, baalansiin credit appii-keessaa keessanii battalumatti ni haaroma.
 
-### Gargaarsa
-- Qajeelcha fayyadamaa
-- Kutaa FAQ
-- Rakkoo furuu
-- Deeggarsa quunnamuu
+---
 
-### Yaada
-- Yaada fayyadamaa
-- Gabaasa dogoggoraa
-- Gaaffii hojii
-- Yaada fooyya'iinsaa
+## Caasaa Gatii
+
+Wal-qunnamtoonni hundi **Tokens** (kutaalee jechootaa) dhaan safaramu.
+
+*   **Rate:** 1 $ETN / 1,000 tokens.
+*   **Tuuta'insa Giddu-galeessaa:** 1,000 tokens ≈ 750 words.
+
+---
+
+## Amaloota Daashboordii
+
+Daashboordiin NetsaAI hojiiwwan aatomaatikii keessaniif ilaalcha hunda-qabeessa kenna:
+
+*   **Baalansii Appii-Keessaa:** Credit'wwan ammaa adeemsa AI tiif qabdan ilaalaa.
+*   **Seenaa Transaakshinii:** Galmee kuusaa keessanii, UUID'wwan, fi haalota mirkaneessaa ilaalaa.
+*   **Xiinxala Fayyadama Token:** Dhuma torbanii fi waliigala ergaawwan keessummeeffamanii hordofaa.
+*   **Bulchiinsa Beekumsaa:** Faayiloota AI keessan leenjisan fe'uu fi haaromsuuf giddu-gala.
