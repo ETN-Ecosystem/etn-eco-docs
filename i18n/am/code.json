@@ -358,7 +358,7 @@
     "description": "The title of the tag list page"
   },
   "homepage.title": {
-    "message": "የ<span style={{ color: '#FFB400' }}>ETN</span> ስነ-ምህዳር",
+    "message": "{etn} ስነ-ምህዳር",
     "description": "The title of the homepage"
   },
   "homepage.subtitle": {
