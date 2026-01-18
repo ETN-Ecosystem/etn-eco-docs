@@ -191,11 +191,7 @@ export default function Home() {
 
   return (
     <Layout
-      title={`${translate({
-        id: 'homepage.layout.title',
-        message: 'Hello from',
-        description: 'The first part of the page title on the home page',
-      })} ${siteConfig.title}`}
+      title={siteConfig.tagline}
       description={translate({
         id: 'homepage.layout.description',
         message: 'Explore the decentralized platforms that make up the ETN Ecosystem. Built on the TON blockchain to empower Ethiopia and beyond.',
