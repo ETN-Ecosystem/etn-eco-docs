@@ -13,6 +13,7 @@ const config = {
 
   url: 'https://docs.etnecosystem.org',
   baseUrl: '/',
+  trailingSlash: false,
 
   organizationName: 'ETN-Ecosystem',
   projectName: 'etn-eco-docs',
@@ -71,6 +72,12 @@ const config = {
         gtag: {
           trackingID: 'G-LDQT4Q5LTP',
           anonymizeIP: true,
+        },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
         },
       }),
     ],
